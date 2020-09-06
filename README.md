@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi! I'm Karin 👋
+💻 What I do: Outside of work, I'm collaborating on a raffle application with Code Platoon alumni association.<br/>
 
+😆 Fun fact: That's my dog Chewy in the picture. He's a playful puppy 🐕<br/>
+
+📫 Email: m.karin2@gmail.com
 <!--
 **KarinMatsuyama/KarinMatsuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
