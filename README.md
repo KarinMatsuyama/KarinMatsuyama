@@ -1,5 +1,5 @@
 ### Hi! I'm Karin 👋
-💻 What I do: I like to build serverless applications using React and AWS services in my free time.<br/>
+💻 What I do: Software Engineer at a bank. I like to build serverless applications using React and AWS services in my free time.<br/>
 
 😆 Fun fact: That's my dog Chewy in the picture. He's a playful puppy 🐕<br/>
 
