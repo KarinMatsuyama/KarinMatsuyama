@@ -1,5 +1,5 @@
 ### Hi! I'm Karin 👋
-💻 What I do: Software Engineer at a bank. I'm developing applications and chrome extensions that increase productivities using OpenAI. I like to build serverless applications using React and AWS services in my free time.<br/>
+💻 What I do: I'm developing web apps and chrome extensions that increase productivities using OpenAI.<br/>
 
 😆 Fun fact: That's my dog Chewie in the picture. He's a playful puppy 🐕<br/>
 
